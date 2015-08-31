@@ -2,7 +2,7 @@ Dear all,
 
 FAC6 begins in two weeks and I just wanted to give you an overview of the setup here and on the revised syllabus and timetable.
 
-As some of you may already know, we are a social enterprise and freelance co-operative. None of the teaching or mentoring staff are paid for their time; teaching is part of our process of learning and almost all of your mentors will have recently been through the programme themselves. 
+As some of you may already know, we are a social enterprise and freelance co-operative. None of the teaching or mentoring staff is paid for their time; teaching is part of our process of learning and almost all of your mentors will have recently been through the programme themselves. 
 
 For all the help you will receive, you will need to rely on your own wits and the support of each other for your own learning. We hope we will be able to give you some useful guidance, but the success of the next few months will depend largely on you.
 
@@ -14,7 +14,7 @@ In Weeks 11 and 12, we will present four practice projects from within FAC. Thes
 
 From December 7th onwards, you will be able to start to work freelance on commercial projects and, if you like, to begin to look for permanent employment. We expect to be able to line up some commercial projects for you, but you will also need to go out and hustle. Guidance will be provided.
 
-You will be free to continue to base yourself at the campus until FAC7 begins on January 18th. After that, if you wish to continue to remain on campus, you will be expected to contribute to the programme in any one of a number of ways.
+You will be free to continue to base yourself at the campus until FAC7 begins on January 18th. After that, if you wish to continue to remain with us, you will be expected to contribute to the programme in any one of a number of ways.
 
 It is probably worth talking about your job prospects. The message on this has been changing rapidly over the past few months. The first version of this course, which ran in early 2014, produced just one person who successfully found work as a software developer; the second just two. 
 
