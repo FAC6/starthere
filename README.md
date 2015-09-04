@@ -8,7 +8,7 @@ For all the help you will receive, you will need to rely on your own wits and th
 
 The first eight weeks, which begins on September 14th, has some significant changes from last time, but the structure remains pretty much as it has been since FAC2, with the emphasis on a series of weekly projects.
 
-The second part of the course starts on November 10th with a longer two-week project where we will introduce you to the full FAC development stack. After the 10th week, we will expect you to have a good grounding in the software that we use.
+The second part of the course starts on November 9th with a longer two-week project where we will introduce you to the full FAC development stack. After the 10th week, we will expect you to have a good grounding in the software that we use.
 
 In Weeks 11 and 12, we will present four practice projects from within FAC. These will be your first projects with people who are as invested in the outcome of your project as you are.
 
@@ -20,7 +20,7 @@ It is probably worth talking about your job prospects. The message on this has b
 
 In contrast, the overwhelming majority of our recent Summer cohort are working as developers and over half are still part of the setup here and working freelance. Average freelance rates are increasing, too.
 
-We now run a recruitment agency for both permanent and contract staff, which for the first time since we started at the beginning of the year is allowing us to pay the rent directly from income. Directors’ salaries will hopefully follow before then end of the year.
+We now run a recruitment agency for both permanent and contract staff, which for the first time since we started at the beginning of the year is allowing us to pay the rent directly from income. Directors’ salaries will hopefully follow before the end of the year.
 
 A couple of our more experienced alumni have set up their own company and are now employing more recent graduates, through our agency, on a freelance basis. 
 
